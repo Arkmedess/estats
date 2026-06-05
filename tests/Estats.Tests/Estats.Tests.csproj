@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Estats.Core\Estats.Core.csproj" />
+    <ProjectReference Include="..\..\src\Estats.Core\Estats.Core.csproj" />
   </ItemGroup>
 
 </Project>
