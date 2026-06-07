@@ -1,6 +1,6 @@
-@estats.API_HostAddress = http://localhost:5274
+@Estats.Api_HostAddress = http://localhost:5274
 
-GET {{estats.API_HostAddress}}/weatherforecast/
+GET {{Estats.Api_HostAddress}}/health/
 Accept: application/json
 
 ###

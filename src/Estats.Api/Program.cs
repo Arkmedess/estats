@@ -1,6 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Adicionar suporte para OpenAPI/Swagger (Padrão .NET 9)
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
